@@ -1,0 +1,3 @@
+package: cqut-cli
+import:
+- package: github.com/Happy-Friday/zf-cqut

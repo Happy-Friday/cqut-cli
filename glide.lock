@@ -1,0 +1,16 @@
+hash: 8eb1c1219ba1d945da965b72a8cb29fe344412657c912aa95b664cda06bc559c
+updated: 2017-12-30T00:27:58.1668655+08:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 349dd0209470eabd9514242c688c403c0926d266
+- name: github.com/axgle/mahonia
+  version: 0c44128a83abf861873f8f4ec81fe58ff1cf6ea4
+- name: github.com/Happy-Friday/zf-cqut
+  version: a21aea70d1c298f7e69d0f7d978c09129024d193
+  subpackages:
+  - cqut
+- name: github.com/PuerkitoBio/goquery
+  version: bc4e06eb0792d1a14661d19dd7822163c25bb6bd
+- name: golang.org/x/net/html
+  version: d866cfc389cec985d6fda2859936a575a55a3ab6
+testImports: []
